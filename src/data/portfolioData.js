@@ -2,8 +2,8 @@ export const personalInfo = {
   name: "Shahil Shrestha",
   role: "Full-Stack Web Developer & UI/UX Designer",
   bio: "Passionate web developer specializing in high-performance front-end interfaces, responsive web applications, and modern digital experiences.",
-  location: "Kathmandu, Nepal",
-  email: "contact@shahilshrestha.com.np",
+  location: "Lalitpur, Nepal",
+  email: "shahilshrestha99@gmail.com",
   github: "https://github.com",
   linkedin: "https://linkedin.com",
 };
