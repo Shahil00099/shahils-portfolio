@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/shahils-portfolio/', // <-- This must match your repo name exactly
+  // base: '/shahils-portfolio/', <-- REMOVE OR COMMENT THIS OUT
 })
