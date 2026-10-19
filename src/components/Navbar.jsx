@@ -30,7 +30,7 @@ export default function Navbar({ darkMode, setDarkMode }) {
           <div className="p-2 rounded-lg bg-purple-600/10 border border-purple-500/30 text-purple-600 dark:text-purple-400">
             <Code2 size={20} />
           </div>
-          <span>Dev<span className="text-purple-600 dark:text-purple-400">.Portfolio</span></span>
+          <span>SHAHIL's<span className="text-purple-600 dark:text-purple-400">.Portfolio</span></span>
         </a>
 
         {/* Desktop Links */}
